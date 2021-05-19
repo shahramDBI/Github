@@ -5,11 +5,11 @@
 <h5> Commands <h5>
 <hr>  
 \JavaScript_PR_01>git init
-<br>
-\JavaScript_PR_01>git remote add origin https://github.com/Your Address!
-<br>
+<br><br>
+\JavaScript_PR_01>git remote add origin https://github.com/Your_Address!
+<br><br>
 \JavaScript_PR_01>git add .
-<br>
+<br><br>
 \JavaScript_PR_01>git commit -m "Initial commit"
-<br>
+<br><br>
 \JavaScript_PR_01>git push origin master
